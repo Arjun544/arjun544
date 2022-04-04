@@ -7,7 +7,7 @@
 
 ## Hi 👋
 
-I'm Arjun Mahar,Freelancer, FLutter Developer, Mern Stack Developer, Next js Developer and technology enthusias.
+## I'm Arjun Mahar,Freelancer, FLutter Developer, Mern Stack Developer, Next js Developer and technology enthusiast.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arjun544)
 
