@@ -12,6 +12,8 @@
 🚀 Currently, I'm full time freelancer at [Upwork](https://www.upwork.com/freelancers/~01adac79a876b58c7e) </br>
 💼 previously worked at [Remerse](https://www.linkedin.com/company/remerse/)
 
+</br>
+
 ## 🎯 My Skills
 [<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />](https://flutter.dev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +35,8 @@
 [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />](https://www.postman.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" />](https://strapi.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+</br>
+</br>
 
 ![](https://github-readme-stats.vercel.app/api?username=arjun544)
 
