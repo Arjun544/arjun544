@@ -1,3 +1,5 @@
+[![Web-1920-1.png](https://i.postimg.cc/X78WH4kk/Web-1920-1.png)](https://postimg.cc/N55ZLhVK)
+
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://www.arjunmahar.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjun-mahar-6067951b8/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Arjun_Mahar1)
@@ -5,6 +7,8 @@
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/13491649/arjun-mahar)
 [<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://www.buymeacoffee.com/arjunmahar1)
 ![](https://komarev.com/ghpvc/?username=arjun544&style=for-the-badge)
+
+</br>
 
 ## Hi 👋 I'm Arjun Mahar
 ### I'm a Freelancer, Flutter Developer, Mern Stack Developer, Next js Developer and Technology Enthusiast.
