@@ -38,6 +38,8 @@
 [<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />](https://socket.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />](https://www.postman.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" />](https://strapi.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />](https://www.prisma.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </br>
 </br>
