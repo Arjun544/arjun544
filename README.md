@@ -14,7 +14,7 @@
 ### I'm a Freelancer, Flutter Developer, Mern Stack Developer, Next js Developer and Technology Enthusiast.
 
 🚀 Currently, I'm full time freelancer at [Upwork](https://www.upwork.com/freelancers/~01adac79a876b58c7e) </br>
-💼 previously worked at [Remerse](https://www.linkedin.com/company/remerse/)
+💼 Previously worked at [Remerse](https://www.linkedin.com/company/remerse/)
 
 </br>
 
